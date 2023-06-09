@@ -1,6 +1,6 @@
 'use client';
 
-export default Form() {
+export default function Form() {
   return (
     <form>
       <button type="submit">
