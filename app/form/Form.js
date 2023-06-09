@@ -1,6 +1,6 @@
 'use client';
 
-import { createData } from '../_action';
+import { createData } from './_action';
 
 export default function Form() {
   return (
